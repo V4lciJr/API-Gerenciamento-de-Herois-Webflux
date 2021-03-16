@@ -1,0 +1,2 @@
+# API-Gerenciamento-de-Herois-Webflux
+Este é um projeto do bootcamp Inter Master Developer da Digital Innovation One, onde praticamos as ferramentas do AWS CLI, utilizando a integração com DynamoDB, é uma api que cria uma tabela de Heróis  com os atributos, id como chave primária e nome, universo e films como sendo os outros atributos que vão compor as colunas da nossa tabela e que utiliza como framework o spring, também fazermos uso do para as requests de nosso banco, o Webflux e o Mono. 
